@@ -1,0 +1,9 @@
+mc.tmx
+minecraft_tilset.png
+steve/jumping/1.png
+steve/running/1.png
+steve/running/2.png
+steve/standing/1.png
+steve/standing/2.png
+steve_still_left.png
+steve_still_right.png
